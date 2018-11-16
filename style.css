@@ -7,5 +7,7 @@ body {
 .container {
 padding: 0 15px 0 15px ;
 border: 1px solid #000;
+background:#ccc !important;
+margin-top: 80px;
 
 }
